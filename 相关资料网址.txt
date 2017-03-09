@@ -1,0 +1,2 @@
+http://www.cnblogs.com/xiaoMzjm/p/3899366.html  ：  select的用法
+http://open.itcast.cn/java/14-519.html        ： 爬虫简介的视频
